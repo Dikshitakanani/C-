@@ -40,10 +40,6 @@ class person
 
 int main()
  {
-    
-
-    int a;
-    string b,c;
 
     person p1;
     p1.setage(17);
