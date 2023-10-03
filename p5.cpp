@@ -76,7 +76,7 @@ int main()
     s.setper((90+95+90+80)/4);
 
     s.getdpa();
-    s.getcppm();
+    s.getcppm(); 
     s.getmaths();
     s.getic();
     s.gettotal();
