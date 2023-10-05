@@ -13,7 +13,7 @@ class Circle
 
     void area(int r)
     {
-            cout << 3.14*r*r;
+            cout << 3.14*r*r<<endl;
     }
     void circ(int r)
     {
