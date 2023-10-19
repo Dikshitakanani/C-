@@ -43,11 +43,11 @@ int main()
     b1.setdata(2,2,2);
     cout << "Volume of box b1 is :" << b1.getvolume() << endl;
     b2.setdata(3,3,3);
-    cout << "Volume of box b1 is :" << b2.getvolume() << endl;
+    cout << "Volume of box b2 is :" << b2.getvolume() << endl;
 
     b3 = b1 + b2;
      cout << "Volume of box b3 is :" << b3.getvolume() << endl;
       b4 = b1 - b2;
-     cout << "Volume of box b3 is :" << b4.getvolume() << endl;
+     cout << "Volume of box b4 is :" << b4.getvolume() << endl;
 
 }
